@@ -1,2 +1,2 @@
 # web_scraping_proyect
-Web Scraping for my sister work
+Web Scraping for my sibling
